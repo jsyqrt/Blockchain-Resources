@@ -5,13 +5,13 @@ Blockchain Resources, links of blokchain related papers, articles, blogs, videos
     
     1. Bitcoin
 
-        * Original White Paper: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
+    * Original White Paper: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
 
     2. Ethereum
         
-        * White Paper: [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper).
+    * White Paper: [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper).
 
-        * Yellow Paper: [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER(https://ethereum.github.io/yellowpaper/paper.pdf).
+    * Yellow Paper: [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER](https://ethereum.github.io/yellowpaper/paper.pdf).
 
     3. EOS
 
@@ -50,26 +50,26 @@ Blockchain Resources, links of blokchain related papers, articles, blogs, videos
 
     1. General
 
-        * Blockchain Project Ranks: [Coin Market Cap](https://coinmarketcap.com/).
+    * Blockchain Project Ranks: [Coin Market Cap](https://coinmarketcap.com/).
 
     2. Project Specified
 
-        * Bitcoin
+    * Bitcoin
 
-        * Ethereum
+    * Ethereum
 
-        * EOS
+    * EOS
 
-        * HyperLegder
+    * HyperLegder
 
     3. Goverment and Laws
 
-        * USA
+    * USA
 
-        * China
+    * China
 
-        * SEA
+    * SEA
 
-        * Japan and Korea
+    * Japan and Korea
 
 
