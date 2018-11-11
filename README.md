@@ -21,7 +21,7 @@ Blockchain Resources, links of blokchain related papers, articles, blogs, videos
 
 
 
-## Articiles and Blogs
+## Articles and Blogs
 
 1. Tutorials
 
